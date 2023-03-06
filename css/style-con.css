@@ -1,0 +1,50 @@
+.nav-link,.btn-outline-light {
+    text-transform: uppercase;
+}
+.nav-link {
+    color: #FFFFFF;
+}
+.nav-link:hover {
+    color: #FF0000;
+}
+.btn-outline-light {
+  color: #FFFFFF;
+  border-color: #FF0000;
+}
+.btn-outline-light:hover {
+  color: #FFFFFF;
+  border-color: #FF0000;
+  background-color: #FF0000;
+}
+.col-md-9{
+  width: 30vw;
+}
+.col-md-4 .text-light{
+  text-decoration: none;
+  text-transform: uppercase;
+}
+.col-md-4 .text-light:hover{
+  color: #FF0000;
+  border:solid 1px #FF0000;
+  border-radius: 35px;
+}
+footer .nav-link{
+    color: #FFFFFF;
+}
+footer .nav-link:hover{
+    color: #FF0000;
+    border-radius: 5px;
+    border: solid 1px #FF0000;
+}
+body{
+  height: 100%;
+}
+header{
+  height: 10vh;
+}
+main{
+  height: auto;
+}
+footer{
+  height: auto;
+}
